@@ -1,0 +1,6 @@
+name: FluidData
+version: 0.1
+main: com.mineaddiction.redis.bukkit.BukkitMain
+database: false
+description: >
+             Handles all data transfers

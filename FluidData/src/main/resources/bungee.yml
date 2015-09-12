@@ -1,0 +1,4 @@
+author: xtremetom
+main: com.mineaddiction.redis.bungee.BungeeMain
+name: FluidData
+version: 0.1
